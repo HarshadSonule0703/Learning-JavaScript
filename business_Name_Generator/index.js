@@ -76,4 +76,3 @@ Hub
 // let newString = "Pease give Rs.1000"
 // console.log(newString.slice(14,18))
 
-
